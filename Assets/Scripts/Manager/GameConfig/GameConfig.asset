@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02082a592a125854d906f9c5ddb7f6bf, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  TILE_SIZE: 1.1
+  TIME_SWAP: 0.17
+  DELTA_DRAG: 35
+  TIME_PIECE_DESTROY_ONE: 0.07
+  TIME_PIECE_DESTROY_TWO: 0.2
+  TIME_PIECE_FALL: 0.17
+  TIME_BOOSTER_FLY: 1.5
+  BOOSTER_SPEED: 0.04
+  SHUFFLE_DELAY: 1.25
+  TIME_SHUFFLE: 0.68
+  HINT_DELAY: 5
+  DELAY_BETWEEN_HINTS: 1.5
+  DELAY_MEGA: 0.1
+  MAX_HEALTH: 5
+  TIME_RECOVERY_HEALTH: 30

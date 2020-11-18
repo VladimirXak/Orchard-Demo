@@ -1,0 +1,181 @@
+﻿{
+  "listDataItems": [
+    {
+      "key": "null",
+      "value": "null"
+    },
+    {
+      "key": "Play",
+      "value": "Играть"
+    },
+    {
+      "key": "Choose",
+      "value": "Выбрать"
+    },
+    {
+      "key": "Continue",
+      "value": "Продолжить"
+    },
+    {
+      "key": "All",
+      "value": "Все"
+    },
+    {
+      "key": "LachOfHealth",
+      "value": "У вас закончились жизни.\nВы можете дождаться их восстановления, либо докупить новых."
+    },
+    {
+      "key": "ChooseSavingText",
+      "value": "Обнаружено дополнительное сохранение.\nВыберите нужное сохранение. Второй вариант будет удален."
+    },
+    {
+      "key": "Level",
+      "value": "Уровень"
+    },
+    {
+      "key": "LevelCompleted",
+      "value": "Уровень пройден!"
+    },
+    {
+      "key": "MovesOver",
+      "value": "Закончились ходы!"
+    },
+    {
+      "key": "ChooseBoosters",
+      "value": "Выберите бустеры"
+    },
+    {
+      "key": "Warning",
+      "value": "Внимание!"
+    },
+    {
+      "key": "TermsText",
+      "value": "Нажимая \"Продолжить\" Вы принимаете Пользовательское соглашение."
+    },
+    {
+      "key": "UserAgreement",
+      "value": "Пользовательское соглашение"
+    },
+    {
+      "key": "DailyBonus",
+      "value": "Ежедневный бонус"
+    },
+    {
+      "key": "Day",
+      "value": "День"
+    },
+    {
+      "key": "NotificationDailyBonusTitle",
+      "value": "Ежедневный бонус"
+    },
+    {
+      "key": "NotificationDailyBonusText",
+      "value": "Твой ежедневный бонус ждет тебя! Зайди и забери его!"
+    },
+    {
+      "key": "NotificationDidNotPlayTitle",
+      "value": "Фрукты ждут твоего возвращения!"
+    },
+    {
+      "key": "NotificationDidNotPlayText",
+      "value": "Пора возвращаться в сад! Фрукты соскучились по тебе!"
+    },
+    {
+      "key": "NotificationHealthTitle",
+      "value": "Жизни восстановлены"
+    },
+    {
+      "key": "NotificationHealthText",
+      "value": "Все жизни восстановлены! Пора возвращаться в сад!"
+    },
+    {
+      "key": "TaskList",
+      "value": "Список заданий"
+    },
+    {
+      "key": "Task",
+      "value": "Задания"
+    },
+    {
+      "key": "General",
+      "value": "Общие"
+    },
+    {
+      "key": "Daily",
+      "value": "Ежедневные"
+    },
+    {
+      "key": "BonusRewardWatch",
+      "value": "Посмотрите рекламу и получите дополнительные монеты"
+    },
+
+    {
+      "key": "TutorialPieces",
+      "value": "Собирайте фишки 'Три в ряд', чтобы проходить уровни!"
+    },
+    {
+      "key": "TutorialBoosterFly",
+      "value": "Собирайте комбо из фишек одного цвета и получайте бустеры!"
+    },
+    {
+      "key": "TutorialBoosterLine",
+      "value": "Собирайте кобмо от четырех фишек в ряд и на их месте появится бустер!"
+    },
+    {
+      "key": "TutorialBoosterBomb",
+      "value": "Собирайте сложные комбо, чтобы получить бустер-бомбу!"
+    },
+    {
+      "key": "TutorialBlockBox",
+      "value": "Собирайте матчи возле ящиков, чтобы разломать их!"
+    },
+    {
+      "key": "TutorialBlockUnderBoardWood",
+      "value": "Собирайте фишки 'Три в ряд' поверх дощечек, чтобы разрушать их!"
+    },
+    {
+      "key": "TutorialPiecesAcorn",
+      "value": "Собирайте матчи возле желудей, чтобы расколоть их!"
+    },
+    {
+      "key": "TutorialBlockChain",
+      "value": "Собирайте матчи с фишками, которые помещенны в цепи и тогда цепи сломают!"
+    },
+    {
+      "key": "TutorialCandy",
+      "value": "Доведите леденец до конца поля и тогда он исчезнет!"
+    },
+    {
+      "key": "Settings",
+      "value": "Настройки"
+    },
+    {
+      "key": "Language",
+      "value": "Язык: Русский"
+    },
+    {
+      "key": "ChooseLanguage",
+      "value": "Выбор языка"
+    },
+    {
+      "key": "Replay",
+      "value": "Переиграть"
+    },
+    {
+      "key": "Shop",
+      "value": "Магазин"
+    },
+    {
+      "key": "Assessment",
+      "value": "Оценить"
+    },
+    {
+      "key": "AssessmentGame",
+      "value": "Оценить игру"
+    },
+    {
+      "key": "AssessmentMessage",
+      "value": "Ваш отзыв поможет нам развивать игру в лучшую сторону. Спасибо!"
+    }
+  ]
+}

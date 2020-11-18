@@ -1,0 +1,181 @@
+﻿{
+  "listDataItems": [
+    {
+      "key": "null",
+      "value": "null"
+    },
+    {
+      "key": "Play",
+      "value": "Play"
+    },
+    {
+      "key": "Choose",
+      "value": "Choose"
+    },
+    {
+      "key": "Continue",
+      "value": "Continue"
+    },
+    {
+      "key": "All",
+      "value": "All"
+    },
+    {
+      "key": "LachOfHealth",
+      "value": "Your health is over.\nWait for the recovery of health or buy new ones"
+    },
+    {
+      "key": "ChooseSavingText",
+      "value": "A save requirement has been detected.\n Choose the desired save. The second option will be deleted."
+    },
+    {
+      "key": "Level",
+      "value": "Level"
+    },
+    {
+      "key": "LevelCompleted",
+      "value": "Level completed!"
+    },
+    {
+      "key": "MovesOver",
+      "value": "The moves are over!"
+    },
+    {
+      "key": "ChooseBoosters",
+      "value": "Choose boosters"
+    },
+    {
+      "key": "Warning",
+      "value": "Warning!"
+    },
+    {
+      "key": "TermsText",
+      "value": "By clicking \"Continue\" you accept the User Agreement."
+    },
+    {
+      "key": "UserAgreement",
+      "value": "User Agreement"
+    },
+    {
+      "key": "DailyBonus",
+      "value": "Daily bonus"
+    },
+    {
+      "key": "Day",
+      "value": "Day"
+    },
+    {
+      "key": "NotificationDailyBonusTitle",
+      "value": "Daily bonus"
+    },
+    {
+      "key": "NotificationDailyBonusText",
+      "value": "Your daily bonus is waiting for you! Come in and take it!"
+    },
+    {
+      "key": "NotificationDidNotPlayTitle",
+      "value": "Fruits are waiting for your return"
+    },
+    {
+      "key": "NotificationDidNotPlayText",
+      "value": "It's time to go back to the garden! Fruits miss you!"
+    },
+    {
+      "key": "NotificationHealthTitle",
+      "value": "Health restored"
+    },
+    {
+      "key": "NotificationHealthText",
+      "value": "Health restored! It's time to go back to the garden!"
+    },
+    {
+      "key": "TaskList",
+      "value": "Task list"
+    },
+    {
+      "key": "Task",
+      "value": "Tasks"
+    },
+    {
+      "key": "General",
+      "value": "General"
+    },
+    {
+      "key": "Daily",
+      "value": "Daily"
+    },
+    {
+      "key": "BonusRewardWatch",
+      "value": "Watch the ad and get extra coins"
+    },
+
+    {
+      "key": "TutorialPieces",
+      "value": "Collect 'Three in a row' chips to complete levels!"
+    },
+    {
+      "key": "TutorialBoosterFly",
+      "value": "Collect combos from the same color chips and get boosters!"
+    },
+    {
+      "key": "TutorialBoosterLine",
+      "value": "Collect cobmo from four chips in a row and a booster will appear in their place!"
+    },
+    {
+      "key": "TutorialBoosterBomb",
+      "value": "Collect challenging combos to get a booster bomb!"
+    },
+    {
+      "key": "TutorialBlockBox",
+      "value": "Collect matches near the boxes to break them!"
+    },
+    {
+      "key": "TutorialBlockUnderBoardWood",
+      "value": "Collect 'Three in a row' chips on top of the boards to destroy them!"
+    },
+    {
+      "key": "TutorialPiecesAcorn",
+      "value": "Collect matches near acorns to split them!"
+    },
+    {
+      "key": "TutorialBlockChain",
+      "value": "Collect matches with chips that are placed in chains and then the chains will break!"
+    },
+    {
+      "key": "TutorialCandy",
+      "value": "Bring the candy to the end of the polarity and then it will disappear!"
+    },
+    {
+      "key": "Settings",
+      "value": "Settings"
+    },
+    {
+      "key": "Language",
+      "value": "Language: English"
+    },
+    {
+      "key": "ChooseLanguage",
+      "value": "Choose language"
+    },
+    {
+      "key": "Replay",
+      "value": "Replay"
+    },
+    {
+      "key": "Shop",
+      "value": "Shop"
+    },
+    {
+      "key": "Assessment",
+      "value": "Assessment"
+    },
+    {
+      "key": "AssessmentGame",
+      "value": "Assessment the game"
+    },
+    {
+      "key": "AssessmentMessage",
+      "value": "Your feedback will help us improve the game for the better. Thanks!"
+    }
+  ]
+}
