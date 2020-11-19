@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd37a016133e7b544b1c6fdfc0553765, type: 3}
   m_Name: DataAcornPiece
   m_EditorClassIdentifier: 
-  _audioClipDestroy: {fileID: 0}
-  listDataSpriteBoardObjects: []
+  _audioClipDestroy: {fileID: 8300000, guid: 674e036c4ef358d4cacdf38dd7261a56, type: 3}
+  listDataSpriteBoardObjects:
+  - _typeBoardObject: 20
+    _sprite: {fileID: 1556047413644726145, guid: 7fd4019c444102b42a8f7928832f1261,
+      type: 3}
+  - _typeBoardObject: 21
+    _sprite: {fileID: -4421793919031283295, guid: 7fd4019c444102b42a8f7928832f1261,
+      type: 3}

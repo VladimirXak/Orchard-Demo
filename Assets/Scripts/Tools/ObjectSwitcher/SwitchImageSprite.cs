@@ -8,11 +8,6 @@ public class SwitchImageSprite : SwitchTwoObject
     [SerializeField] private Sprite _firstSprite;
     [SerializeField] private Sprite _secondSprite;
 
-    private void Awake()
-    {
-        _image.sprite = _firstSprite;
-    }
-
     public override void Switch(bool isFirst)
     {
         _image.sprite = isFirst ? _firstSprite : _secondSprite;
