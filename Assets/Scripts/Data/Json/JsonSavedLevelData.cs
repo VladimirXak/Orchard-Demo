@@ -31,7 +31,6 @@ public class JsonSavedTileData
 
     public bool isEnable;
     public bool isSpawnerPieces;
-    public bool isAvailablePiece;
 
     public string typePiece;
 }

@@ -29,7 +29,7 @@ namespace Orchard.GameSpace
             }
         }
 
-        public Health(JsonDataSavedHealth dataHealth, Action<bool> saveData)
+        public void Init(JsonDataSavedHealth dataHealth, Action<bool> saveData)
         {
             OnSaveData = saveData;
 

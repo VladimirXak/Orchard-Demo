@@ -25,7 +25,7 @@ namespace Orchard.GameSpace
 
         public Coins(int coins, Action<bool> saveData)
         {
-            Value = coins;
+            _value = coins;
             OnSaveData = saveData;
         }
 

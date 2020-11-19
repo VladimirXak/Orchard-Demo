@@ -8,7 +8,7 @@ public static class AesEncryption
     public static int KeyLength = 128;
     private const string SaltKey = "ShMG8hLyZ7k~Ge5@";
     private const string VIKey = "~6YUi0Sv5@|{aOZO";
-    private const string password = "Hako";
+    private const string password = "DemoGame";
 
     public static string Encrypt(byte[] value)
     {

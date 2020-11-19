@@ -13,11 +13,13 @@ namespace Orchard.GameSpace
 
         public void Init()
         {
+            Health = new Health();
+
             JsonDataSavedGame dataSavedGame = LoadFromPlayerPrefs();
 
             NumberLevel = dataSavedGame.numberLevel;
             Coins = new Coins(dataSavedGame.countCoins, TrySaveData);
-            Health = new Health(dataSavedGame.dataSavedHealth, TrySaveData);
+            Health.Init(dataSavedGame.dataSavedHealth, TrySaveData);
         }
 
         public void LevelCompleted(bool isSave = true)
