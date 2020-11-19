@@ -16,8 +16,8 @@ namespace Orchard.Game
 
             JsonSavedLevelData savedLevelData = loadLevel.GetLevelData(GameManager.LevelLoadingData.NumberLevel);
 
-            //if (savedLevelData.numberLevel != GameManager.LevelLoadingData.NumberLevel)
-            //    throw new System.Exception("Ошибка загрузки уровня. Файловый уровень не совпадает с текущим уровнем.");
+            if (savedLevelData.numberLevel != GameManager.LevelLoadingData.NumberLevel)
+                throw new System.Exception("Ошибка загрузки уровня. Файловый уровень не совпадает с текущим уровнем.");
 
             JsonDataBoard boardInfo = new JsonDataBoard()
             {
