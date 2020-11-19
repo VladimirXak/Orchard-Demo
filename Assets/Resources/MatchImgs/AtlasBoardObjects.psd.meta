@@ -341,6 +341,30 @@ TextureImporter:
   - first:
       213: -7905550349855913394
     second: PieceAcornOne
+  - first:
+      213: -5857003795624041965
+    second: PieceAcorn
+  - first:
+      213: -184815429487178702
+    second: PieceYellow
+  - first:
+      213: 3452924631135530041
+    second: PieceGreen
+  - first:
+      213: -9155833265432375328
+    second: AtlasBoardObjects_3
+  - first:
+      213: -7228198838523251915
+    second: AtlasBoardObjects_4
+  - first:
+      213: -5857003795624041965
+    second: PieceAcorn
+  - first:
+      213: -5857003795624041965
+    second: PieceYellow
+  - first:
+      213: -184815429487178702
+    second: PieceAcorn
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -470,48 +494,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PieceGreen
-      rect:
-        serializedVersion: 2
-        x: 520
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 312e6b1641eb7bea0800000000000000
-      internalID: -5857003795624041965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PieceYellow
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23cc76898576f6df0800000000000000
-      internalID: -184815429487178702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: PieceBlue
       rect:
         serializedVersion: 2
@@ -591,6 +573,69 @@ TextureImporter:
       bones: []
       spriteID: e4a8fda97d7d94290800000000000000
       internalID: -7905550349855913394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PieceAcorn
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc76898576f6df0800000000000000
+      internalID: -184815429487178702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PieceGreen
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca70b58a04bef20800000000000000
+      internalID: 3452924631135530041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PieceYellow
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e6b1641eb7bea0800000000000000
+      internalID: -5857003795624041965
       vertices: []
       indices: 
       edges: []
